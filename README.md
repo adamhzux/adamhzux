@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @adamhzux
-- 👀 I’m interested in video game development.
-- 🌱 I’m currently learning Python / C#
-- 💞️ I’m looking to collaborate on nothing so far.
-- 😄 Pronouns: a / e
-- ⚡ Fun fact: i am left-handed!
+just another random person...
 
 <!---
 adamhzux/adamhzux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
